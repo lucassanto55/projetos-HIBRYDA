@@ -1,0 +1,7 @@
+{
+  "name": "HIBRYDA ROTAS",
+  "description": "Sistema de Planejamento e Otimização de Rotas para HIBRYDA PESCADOS. Inclui otimização TSP, gestão de frota e geolocalização.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
